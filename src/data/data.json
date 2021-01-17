@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "Seu Site",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+
+    },
+    "About": {
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-paint-brush",
+            "name": "Pintura",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-check-square",
+            "name": "Manutenção",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-flag",
+            "name": "Revisão",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-motorcycle",
+            "name": "Costumização",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Venda de Peças",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-refresh",
+            "name": "Conserto",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Pessoa"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Pessoa"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Pessoa"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Pessoa"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Pessoa"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Pessoa"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Pessoa 1",
+            "job": "Fundador"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Pessoa 2",
+            "job": "Mecânico"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Pessoa 3",
+            "job": "Mecânico"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Pessoa 4",
+            "job": "Mecânico"
+        }
+    ],
+    "Contact": {
+        "address": "Rua 123 ",
+        "phone": "+55 11 99456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
